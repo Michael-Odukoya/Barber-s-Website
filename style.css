@@ -188,6 +188,9 @@ nav ul a{
     .features{
         flex-basis: 100%;   
     }
+    .feature-box{
+        display: grid;
+    }
     .features-img{
         flex-basis: 100%;
     }
